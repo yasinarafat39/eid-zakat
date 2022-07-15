@@ -127,3 +127,20 @@ h2{
     
 }
  
+
+/* footer start */
+footer{
+    height: 177px;
+    width: 100%;
+    background-color: black;
+}
+footer h2{
+    text-align: center;
+    color: #ef233c;
+}
+footer p{
+    color: white;
+    text-align: center;
+}
+
+/* footer end */
