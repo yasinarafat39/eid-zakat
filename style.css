@@ -17,16 +17,16 @@ header{
 }
 .header-div{
      color: white;
+     width: 526px;
+     margin-left: 150px;
+     padding-top: 100px;
 }
 .header-div h1{
     font-family: 'Inter', sans-serif;
     font-size: 50px;
     
 }
-.half-widht{
-    display: flex;
-    width: 50%;
-}
+
 
 a{
     padding: 10px 20px;
@@ -48,7 +48,7 @@ a{
     
 }
 .half-width img{
-    width: 75%;
+    width: 90%;
     border-radius: 20px;
 }
 h2{
